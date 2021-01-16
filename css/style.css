@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Lobster';
+    font-size: larger;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 100px;
+}
+p {
+    margin-bottom: 100px;
+}
+.perfil-personal {
+    display: flex;
+}
+.foto-de-perfil {
+    height: 280px;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+.foto-de-graduacion {
+    width: 300px;
+    height: 300px;
+    margin-left: 40px;
+}
+.biologia-del-valle {
+    width: 300px;
+    height: 300px;
+    margin-left: 31px;
+}
+.vidrios{
+    margin-left: 30px;
+}
+.pizza {
+    width: 290px;
+    margin-left: 78px;
+}
+.pizza-italiana {
+    margin-bottom: 100px;
+}
+.referencias-familiares {
+    margin-bottom: 100px;
+}
+.lista {
+    list-style-type: none;
+}
